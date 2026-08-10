@@ -33,6 +33,9 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 
 .  Designed interactive dashboards for quick decision-making.
 
+<img width="563" height="270" alt="Screenshot 2026-08-10 133826" src="https://github.com/user-attachments/assets/53926144-99a4-4bf5-ab54-cee8d17e07c8" />
+
+
 🛍️ Dataset Description
 .  The dataset contained retail transactions including:
 
@@ -65,4 +68,6 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 .  Apply advanced formulas and logical functions
 
 .  Build professional dashboards and reports for business insights
+
+
 
