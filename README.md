@@ -1,9 +1,11 @@
 🧮 Excel Retail & Sales Data Analysis Project
 
 📘 Project Overview
+<hr width="100%" color="blue" noshade>
 This project was completed as part of the Data Technician Bootcamp, focusing on analysing retail and sales data using Microsoft Excel. The goal was to apply core data analysis techniques to uncover insights, automate calculations, and present findings visually.
 
 🧠 Skills Demonstrated
+<hr width="100%" color="blue" noshade>
 
 🔢 Formula Mastery
 
@@ -20,6 +22,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 . SWITCH – Simplified complex conditional logic for cleaner data transformations.
 
 🔍 Data Cleaning & Exploration
+<hr width="100%" color="blue" noshade>
 .   filtering and sorting to isolate key insights.
 
 .  Used conditional formatting to highlight top-performing products and months.
@@ -27,16 +30,15 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 .  Removed duplicates and handled missing data for accurate reporting.
 
 📊 Data Visualization
+<hr width="100%" color="blue" noshade>
 .  Built PivotTables to summarise sales by region, product, and month.
 
 .  Created dynamic charts (bar, line, and pie) to visualise revenue trends and category performance.
 
 .  Designed interactive dashboards for quick decision-making.
 
-<img width="563" height="270" alt="Screenshot 2026-08-10 133826" src="https://github.com/user-attachments/assets/53926144-99a4-4bf5-ab54-cee8d17e07c8" />
-
-
 🛍️ Dataset Description
+<hr width="100%" color="blue" noshade>
 .  The dataset contained retail transactions including:
 
 .  Product categories (Clothing, Electronics, Beauty)
@@ -46,6 +48,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 .  Dates of transactions for monthly and yearly trend analysis
 
 🧩 Key Insights
+<hr width="100%" color="blue" noshade>
 
 .  Identified seasonal sales patterns and top-performing categories.
 
@@ -54,6 +57,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 .  Presented findings through clear visuals and summary tables.
 
 🧰 Tools Used
+<hr width="100%" color="blue" noshade>
 .  Microsoft Excel
 
 .  PivotTables & Charts
@@ -61,6 +65,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 .  Formula-based automation
 
 🚀 Outcome
+<hr width="100%" color="blue" noshade>
 .  This project strengthened my ability to:
 
 .  Clean and analyse large datasets in Excel
