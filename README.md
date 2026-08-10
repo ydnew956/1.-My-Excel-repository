@@ -8,71 +8,83 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 <hr width="100%" color="blue" noshade>
 
 🔢 Formula Mastery
+<ul style="list-style-type:circle;">
+<li>SUM / SUMIF– Calculated total and conditional sales values.</li>
 
-.  SUM / SUMIF – Calculated total and conditional sales values.
+<li>AVERAGE / AVERAGEIF – Determined average sales and performance by category.</li>
 
-.  AVERAGE / AVERAGEIF – Determined average sales and performance by category.
+<li>DATE, MONTH, YEAR – Extracted and analysed time-based trends.</li>
 
-.  DATE, MONTH, YEAR – Extracted and analysed time-based trends.
+<li>UNIQUE – Identified distinct product categories and customer segments.</li>
 
-.  UNIQUE – Identified distinct product categories and customer segments.
+<li>VLOOKUP – Linked datasets to retrieve product and pricing details efficiently.</li>
 
-.  VLOOKUP – Linked datasets to retrieve product and pricing details efficiently.
-
-. SWITCH – Simplified complex conditional logic for cleaner data transformations.
+<li>SWITCH – Simplified complex conditional logic for cleaner data transformations.</li>
+</ul>
+<hr width="100%" color="blue" noshade>
 
 🔍 Data Cleaning & Exploration
+<ul style="list-style-type:circle;">
+<li>filtering and sorting to isolate key insights.</li>
+
+<li>Used conditional formatting to highlight top-performing products and months.</li>
+
+<li>Removed duplicates and handled missing data for accurate reporting.</li>
+</ul>
 <hr width="100%" color="blue" noshade>
-.   filtering and sorting to isolate key insights.
-
-.  Used conditional formatting to highlight top-performing products and months.
-
-.  Removed duplicates and handled missing data for accurate reporting.
 
 📊 Data Visualization
+
+<ul style="list-style-type:circle;">
+<li>Built PivotTables to summarise sales by region, product, and month.</li>
+
+<li>Created dynamic charts (bar, line, and pie) to visualise revenue trends and category performance.</li>
+
+<li>Designed interactive dashboards for quick decision-making.</li>
+</ul>
 <hr width="100%" color="blue" noshade>
-.  Built PivotTables to summarise sales by region, product, and month.
-
-.  Created dynamic charts (bar, line, and pie) to visualise revenue trends and category performance.
-
-.  Designed interactive dashboards for quick decision-making.
 
 🛍️ Dataset Description
+
+<ul style="list-style-type:circle;">
+<li>The dataset contained retail transactions including:</li>
+
+<li>Product categories (Clothing, Electronics, Beauty)</li>
+
+<li>Sales, quantity, and commission data</li>
+
+<li>Dates of transactions for monthly and yearly trend analysis</li>
+</ul>
 <hr width="100%" color="blue" noshade>
-.  The dataset contained retail transactions including:
-
-.  Product categories (Clothing, Electronics, Beauty)
-
-.  Sales, quantity, and commission data
-
-.  Dates of transactions for monthly and yearly trend analysis
 
 🧩 Key Insights
+
+<ul style="list-style-type:circle;">
+<li>Identified seasonal sales patterns and top-performing categories.</li>
+
+<li>Calculated commissions and profit margins using Excel formulas.</li>
+
+<li>Presented findings through clear visuals and summary tables.</li>
+</ul>
 <hr width="100%" color="blue" noshade>
-
-.  Identified seasonal sales patterns and top-performing categories.
-
-.  Calculated commissions and profit margins using Excel formulas.
-
-.  Presented findings through clear visuals and summary tables.
 
 🧰 Tools Used
+<ul style="list-style-type:circle;">
+<li>Microsoft Excel</li>
+
+<li>PivotTables & Charts</li>
+
+<li>Formula-based automation</li>
+</UL>
 <hr width="100%" color="blue" noshade>
-.  Microsoft Excel
-
-.  PivotTables & Charts
-
-.  Formula-based automation
 
 🚀 Outcome
-<hr width="100%" color="blue" noshade>
-.  This project strengthened my ability to:
+<ul style="list-style-type:circle;">
+<li>This project strengthened my ability to:</li>
 
-.  Clean and analyse large datasets in Excel
+<li>Clean and analyse large datasets in Excel</li>
 
-.  Apply advanced formulas and logical functions
+<li>Apply advanced formulas and logical functions</li>
 
-.  Build professional dashboards and reports for business insights
-
-
-
+<li>Build professional dashboards and reports for business insights</li>
+</ul>
