@@ -2,7 +2,7 @@
 
 ## 📘  <b>Project Overview</b>
 
-This project was completed as part of the Data Technician Bootcamp, focusing on analysing retail and sales data using Microsoft Excel. The goal was to apply core data analysis techniques to uncover insights, automate calculations, and present findings visually.
+This project was completed as part of the Data Technician Bootcamp week 1, focusing on analysing retail and sales data using Microsoft Excel. The goal was to apply core data analysis techniques to uncover insights, automate calculations, and present findings visually.
 
 
 
