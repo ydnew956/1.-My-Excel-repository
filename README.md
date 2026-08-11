@@ -49,7 +49,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 ## 🛍️ <b>Dataset Description</b>
 
 <ul style="list-style-type:circle;">
-<li>The dataset contained retail transactions including:</li>
+The dataset contained retail transactions including:
 
 <li>Product categories (Clothing, Electronics, Beauty)</li>
 
@@ -82,7 +82,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 
 ## 🚀 <b>Outcome</b>
 <ul style="list-style-type:circle;">
-<li>This project strengthened my ability to:</li>
+This project strengthened my ability to:
 
 <li>Clean and analyse large datasets in Excel</li>
 
