@@ -1,13 +1,13 @@
 # 🧮Excel Retail & Sales Data Analysis Project
 
 ## 📘  <b>Project Overview</b>
-<hr width="100%" color="blue" noshade>
+
 This project was completed as part of the Data Technician Bootcamp, focusing on analysing retail and sales data using Microsoft Excel. The goal was to apply core data analysis techniques to uncover insights, automate calculations, and present findings visually.
 
-<hr width="100%" color="blue" noshade>
+
 
 ## 🧠 <b>Skills Demonstrated</b>
-<hr width="100%" color="blue" noshade>
+
 
 ## 🔢 <b>Formula Mastery</b>
 <ul style="list-style-type:circle;">
@@ -23,7 +23,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 
 <li>SWITCH – Simplified complex conditional logic for cleaner data transformations.</li>
 </ul>
-<hr width="100%" color="blue" noshade>
+
 
 ## 🔍 <b>Data Cleaning & Exploration</b>
 <ul style="list-style-type:circle;">
@@ -33,7 +33,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 
 <li>Removed duplicates and handled missing data for accurate reporting.</li>
 </ul>
-<hr width="100%" color="blue" noshade>
+
 
 ## 📊 <b>Data Visualization</b>
 
@@ -44,7 +44,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 
 <li>Designed interactive dashboards for quick decision-making.</li>
 </ul>
-<hr width="100%" color="blue" noshade>
+
 
 ## 🛍️ <b>Dataset Description</b>
 
@@ -57,7 +57,7 @@ The dataset contained retail transactions including:
 
 <li>Dates of transactions for monthly and yearly trend analysis</li>
 </ul>
-<hr width="100%" color="blue" noshade>
+
 
 ## 🧩 <b>Key Insights</b>
 
@@ -68,7 +68,7 @@ The dataset contained retail transactions including:
 
 <li>Presented findings through clear visuals and summary tables.</li>
 </ul>
-<hr width="100%" color="blue" noshade>
+
 
 ## 🧰 <b>Tools Used</b>
 <ul style="list-style-type:circle;">
@@ -78,7 +78,7 @@ The dataset contained retail transactions including:
 
 <li>Formula-based automation</li>
 </UL>
-<hr width="100%" color="blue" noshade>
+
 
 ## 🚀 <b>Outcome</b>
 <ul style="list-style-type:circle;">
