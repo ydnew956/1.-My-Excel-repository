@@ -62,6 +62,9 @@ The dataset contained retail transactions including:
 - Presented findings through clear visuals and summary tables.
 
 <img width="658" height="312" alt="Screenshot of excel table displaying column using formulas" src="https://github.com/user-attachments/assets/a4d4affb-d597-43b2-8d0a-c5ef0e86d3bc" />
+<img width="653" height="392" alt="Screenshot 2026-08-11 144757" src="https://github.com/user-attachments/assets/5947f2da-8cd0-4782-8f87-31a3ac884345" />
+
+
 
 
 ## 🧰 <b>Tools Used</b>
@@ -80,9 +83,9 @@ This project strengthened my ability to:
 
 - Clean and analyse large datasets in Excel
 
-- Applied advanced formulas and logical functions
+- Apply advanced formulas and logical functions
 
-- Built professional dashboards and reports for business insights
+- Build professional dashboards and reports for business insights
 
 
 ## 🧭 How to Use
