@@ -10,88 +10,80 @@ This project was completed as part of the Data Technician Bootcamp week 1, focus
 
 
 ## 🔢 <b>Formula Mastery</b>
-<ul style="list-style-type:circle;">
-<li>SUM / SUMIF– Calculated total and conditional sales values.</li>
 
-<li>AVERAGE / AVERAGEIF – Determined average sales and performance by category.</li>
+- **SUM / SUMIF** – Calculated total and conditional sales values.
 
-<li>DATE, MONTH, YEAR – Extracted and analysed time-based trends.</li>
+- **AVERAGE / AVERAGEIF** – Determined average sales and performance by category.
 
-<li>UNIQUE – Identified distinct product categories and customer segments.</li>
+- **DATE, MONTH, YEAR** – Extracted and analysed time-based trends.
 
-<li>VLOOKUP – Linked datasets to retrieve product and pricing details efficiently.</li>
+- **UNIQUE** – Identified distinct product categories and customer segments.
 
-<li>SWITCH – Simplified complex conditional logic for cleaner data transformations.</li>
-</ul>
+- **VLOOKUP** – Linked datasets to retrieve product and pricing details efficiently.
+
+- **SWITCH** – Simplified complex conditional logic for cleaner data transformations.
 
 
-## 🔍 <b>Data Cleaning & Exploration</b>
-<ul style="list-style-type:circle;">
-<li>filtering and sorting to isolate key insights.</li>
 
-<li>Used conditional formatting to highlight top-performing products and months.</li>
+## 🔍 Data Cleaning & Exploration
 
-<li>Removed duplicates and handled missing data for accurate reporting.</li>
-</ul>
+- It is important to check your data is cleaned up and doesn’t interfere with
+calculations, numbers as text instead of numeric values, especially the spacing in cells.
+
+- Removed duplicates and handle missing data for accurate reporting.
 
 
 ## 📊 <b>Data Visualization</b>
 
-<ul style="list-style-type:circle;">
-<li>Built PivotTables to summarise sales by region, product, and month.</li>
+- Built PivotTables to summarise sales by region, product, and month.
 
-<li>Created dynamic charts (bar, line, and pie) to visualise revenue trends and category performance.</li>
+- Created dynamic charts (bar, line, and pie) to visualise revenue trends and category performance.
 
-<li>Designed interactive dashboards for quick decision-making.</li>
-</ul>
+- Designed interactive dashboards for quick decision-making.
 
 
 ## 🛍️ <b>Dataset Description</b>
 
-<ul style="list-style-type:circle;">
 The dataset contained retail transactions including:
 
-<li>Product categories (Clothing, Electronics, Beauty)</li>
+- Product categories (Clothing, Electronics, Beauty)
 
-<li>Sales, quantity, and commission data</li>
+- Sales, quantity, and commission data
 
-<li>Dates of transactions for monthly and yearly trend analysis</li>
-</ul>
+- Dates of transactions for monthly and yearly trend analysis
 
 
 ## 🧩 <b>Key Insights</b>
 
-<ul style="list-style-type:circle;">
-<li>Identified seasonal sales patterns and top-performing categories.</li>
+- Identified seasonal sales patterns and top-performing categories.
 
-<li>Calculated commissions and profit margins using Excel formulas.</li>
+- Calculated commissions and profit margins using Excel formulas.
 
-<li>Presented findings through clear visuals and summary tables.</li>
-</ul>
+- Presented findings through clear visuals and summary tables.
+
+<img width="658" height="312" alt="Screenshot of excel table displaying column using formulas" src="https://github.com/user-attachments/assets/a4d4affb-d597-43b2-8d0a-c5ef0e86d3bc" />
 
 
 ## 🧰 <b>Tools Used</b>
-<ul style="list-style-type:circle;">
-<li>Microsoft Excel</li>
 
-<li>PivotTables & Charts</li>
+- Microsoft Excel
 
-<li>Formula-based automation</li>
-</UL>
+- PivotTables & Charts
+
+- Formula-based automation
+
 
 
 ## 🚀 <b>Outcome</b>
-<ul style="list-style-type:circle;">
+
 This project strengthened my ability to:
 
-<li>Clean and analyse large datasets in Excel</li>
+- Clean and analyse large datasets in Excel
 
+- Applied advanced formulas and logical functions
 
+- Built professional dashboards and reports for business insights
 
-<li>Apply advanced formulas and logical functions</li>
-
-<li>Build professional dashboards and reports for business insights</li>
-</ul>
 
 ## 🧭 How to Use
 1. Download or clone the repository  
