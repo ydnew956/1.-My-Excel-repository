@@ -86,7 +86,34 @@ This project strengthened my ability to:
 
 <li>Clean and analyse large datasets in Excel</li>
 
+
+
 <li>Apply advanced formulas and logical functions</li>
 
 <li>Build professional dashboards and reports for business insights</li>
 </ul>
+
+## 🧭 How to Use
+1. Download or clone the repository  
+Use GitHub’s Code button to download the project files or clone the repo to your local machine.
+
+2. Open the Excel workbook  
+Launch the main .xlsx file in Microsoft Excel (Windows, Mac, or Excel Online).
+
+3. Explore the raw data  
+Navigate to the dataset sheet to view product categories, sales values, dates, and other fields used throughout the project.
+
+1. Review formulas and logic  
+Check the formula cells to see how functions like SUM, SUMIF, AVERAGE, AVERAGEIF, DATE, MONTH, YEAR, UNIQUE, VLOOKUP, and SWITCH were applied.
+
+1. Interact with filters and sorting  
+Use Excel’s built‑in filters and sort options to explore the data from different angles.
+
+1. Analyse PivotTables  
+Open the PivotTable sheets to view aggregated insights such as sales by category, monthly trends, or commission totals.
+
+1. View charts and dashboards  
+Explore the visualisation sheets to see bar charts, line charts, pie charts, and other visuals created from the retail and sales data.
+
+1. Modify or extend the workbook  
+Add new formulas, create additional PivotTables, or build your own charts to deepen your analysis.
