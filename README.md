@@ -1,13 +1,14 @@
-🧮 Excel Retail & Sales Data Analysis Project
+<h1>🧮Excel Retail & Sales Data Analysis Project</h1>
 
-📘 Project Overview
+📘 <b>Project Overview</b>
 <hr width="100%" color="blue" noshade>
 This project was completed as part of the Data Technician Bootcamp, focusing on analysing retail and sales data using Microsoft Excel. The goal was to apply core data analysis techniques to uncover insights, automate calculations, and present findings visually.
 
-🧠 Skills Demonstrated
+<hr width="100%" color="blue" noshade>
+🧠 <b>Skills Demonstrated</b>
 <hr width="100%" color="blue" noshade>
 
-🔢 Formula Mastery
+🔢 <b>Formula Mastery</b>
 <ul style="list-style-type:circle;">
 <li>SUM / SUMIF– Calculated total and conditional sales values.</li>
 
@@ -23,7 +24,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 </ul>
 <hr width="100%" color="blue" noshade>
 
-🔍 Data Cleaning & Exploration
+🔍 <b>Data Cleaning & Exploration</b>
 <ul style="list-style-type:circle;">
 <li>filtering and sorting to isolate key insights.</li>
 
@@ -33,7 +34,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 </ul>
 <hr width="100%" color="blue" noshade>
 
-📊 Data Visualization
+📊 <b>Data Visualization</b>
 
 <ul style="list-style-type:circle;">
 <li>Built PivotTables to summarise sales by region, product, and month.</li>
@@ -44,7 +45,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 </ul>
 <hr width="100%" color="blue" noshade>
 
-🛍️ Dataset Description
+🛍️ <b>Dataset Description</b>
 
 <ul style="list-style-type:circle;">
 <li>The dataset contained retail transactions including:</li>
@@ -57,7 +58,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 </ul>
 <hr width="100%" color="blue" noshade>
 
-🧩 Key Insights
+🧩 <b>Key Insights</b>
 
 <ul style="list-style-type:circle;">
 <li>Identified seasonal sales patterns and top-performing categories.</li>
@@ -68,7 +69,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 </ul>
 <hr width="100%" color="blue" noshade>
 
-🧰 Tools Used
+🧰 <b>Tools Used</b>
 <ul style="list-style-type:circle;">
 <li>Microsoft Excel</li>
 
@@ -78,7 +79,7 @@ This project was completed as part of the Data Technician Bootcamp, focusing on 
 </UL>
 <hr width="100%" color="blue" noshade>
 
-🚀 Outcome
+🚀 <b>Outcome</b>
 <ul style="list-style-type:circle;">
 <li>This project strengthened my ability to:</li>
 
