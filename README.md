@@ -1,15 +1,15 @@
-# 🧮Excel Retail & Sales Data Analysis Project
+# Excel Retail & Sales Data Analysis Project
 
-## 📘  <b>Project Overview</b>
+##  <b>Project Overview</b>
 
 This project was completed as part of the Data Technician Bootcamp week 1, focusing on analysing retail and sales data using Microsoft Excel. The goal was to apply core data analysis techniques to uncover insights, automate calculations, and present findings visually.
 
 
 
-## 🧠 <b>Skills Demonstrated</b>
+##  <b>Skills Demonstrated</b>
 
 
-## 🔢 <b>Formula Mastery</b>
+##  <b>Formula Mastery</b>
 
 - **SUM / SUMIF** – Calculated total and conditional sales values.
 
@@ -25,7 +25,7 @@ This project was completed as part of the Data Technician Bootcamp week 1, focus
 
 
 
-## 🔍 Data Cleaning & Exploration
+##  Data Cleaning & Exploration
 
 - It is important to check your data is cleaned up and doesn’t interfere with
 calculations, numbers as text instead of numeric values, especially the spacing in cells.
@@ -33,7 +33,7 @@ calculations, numbers as text instead of numeric values, especially the spacing 
 - Removed duplicates and handle missing data for accurate reporting.
 
 
-## 📊 <b>Data Visualization</b>
+##  <b>Data Visualization</b>
 
 - Built PivotTables to summarise sales by region, product, and month.
 
@@ -42,7 +42,7 @@ calculations, numbers as text instead of numeric values, especially the spacing 
 - Designed interactive dashboards for quick decision-making.
 
 
-## 🛍️ <b>Dataset Description</b>
+##  <b>Dataset Description</b>
 
 The dataset contained retail transactions including:
 
@@ -53,7 +53,7 @@ The dataset contained retail transactions including:
 - Dates of transactions for monthly and yearly trend analysis
 
 
-## 🧩 <b>Key Insights</b>
+##  <b>Key Insights</b>
 
 - Identified seasonal sales patterns and top-performing categories.
 
@@ -67,7 +67,7 @@ The dataset contained retail transactions including:
 
 
 
-## 🧰 <b>Tools Used</b>
+##  <b>Tools Used</b>
 
 - Microsoft Excel
 
@@ -77,7 +77,7 @@ The dataset contained retail transactions including:
 
 
 
-## 🚀 <b>Outcome</b>
+## <b>Outcome</b>
 
 This project strengthened my ability to:
 
@@ -88,7 +88,7 @@ This project strengthened my ability to:
 - Build professional dashboards and reports for business insights
 
 
-## 🧭 How to Use
+##  How to Use
 1. Download or clone the repository  
 Use GitHub’s Code button to download the project files or clone the repo to your local machine.
 
