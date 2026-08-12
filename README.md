@@ -61,6 +61,8 @@ The dataset contained retail transactions including:
 
 - Presented findings through clear visuals and summary tables.
 ## Examples
+<img width="908" height="147" alt="Screenshot 2026-08-12 141910" src="https://github.com/user-attachments/assets/6cc08e1b-c4ba-48cc-9bf4-435471883f1a" />
+
 <img width="954" height="266" alt="Screenshot 2026-08-12 141545" src="https://github.com/user-attachments/assets/495c5edb-7bbf-4c1f-8172-aa639067f5de" />
 
 
