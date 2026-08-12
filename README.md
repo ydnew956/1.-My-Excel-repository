@@ -17,7 +17,7 @@ This project was completed as part of the Data Technician Bootcamp week 1, focus
 
 - **DATE, MONTH, YEAR** – Extracted and analysed time-based trends.
 
-- **UNIQUE** – Identified distinct product categories and customer segments.
+- **UNIQUE** – Identified distinct product categories.
 
 - **VLOOKUP** – Linked datasets to retrieve product and pricing details efficiently.
 
@@ -65,11 +65,6 @@ The dataset contained retail transactions including:
 
 <img width="954" height="266" alt="Screenshot 2026-08-12 141545" src="https://github.com/user-attachments/assets/495c5edb-7bbf-4c1f-8172-aa639067f5de" />
 
-
-
-
-
-
 ##  <b>Tools Used</b>
 
 - Microsoft Excel
@@ -77,7 +72,6 @@ The dataset contained retail transactions including:
 - PivotTables & Charts
 
 - Formula-based automation
-
 
 
 ## <b>Outcome</b>
