@@ -60,7 +60,7 @@ The dataset contained retail transactions including:
 - Calculated commissions and profit margins using Excel formulas.
 
 - Presented findings through clear visuals and summary tables.
-
+## Examples
 <img width="658" height="312" alt="Screenshot of excel table displaying column using formulas" src="https://github.com/user-attachments/assets/a4d4affb-d597-43b2-8d0a-c5ef0e86d3bc" />
 <img width="653" height="392" alt="Screenshot bar chart" src="https://github.com/user-attachments/assets/5947f2da-8cd0-4782-8f87-31a3ac884345" />
 
