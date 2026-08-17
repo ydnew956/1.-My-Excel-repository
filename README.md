@@ -68,6 +68,8 @@ The dataset contained retail transactions including:
 <break>
 <img width="900" height="266" alt="Screenshot of a chart displaying sales organised by age group" src="https://github.com/user-attachments/assets/495c5edb-7bbf-4c1f-8172-aa639067f5de" />
 <break>
+<img width="838" height="421" alt="Screenshot of a product by revenue chart" src="https://github.com/user-attachments/assets/4df86a7a-c331-45ce-b6be-a8a5712575c6" />
+
 
 
 
