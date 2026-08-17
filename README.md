@@ -65,6 +65,9 @@ The dataset contained retail transactions including:
 
 <img width="954" height="266" alt="Screenshot of a chart displaying sales organised by age group" src="https://github.com/user-attachments/assets/495c5edb-7bbf-4c1f-8172-aa639067f5de" />
 
+<img width="544" height="250" alt="Screenshot of a chart displaying the results of a switch formula" src="https://github.com/user-attachments/assets/6759c23f-66aa-4158-9127-0aaf127f72f0" />
+
+
 ##  <b>Tools Used</b>
 
 - Microsoft Excel
