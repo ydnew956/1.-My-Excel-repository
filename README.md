@@ -62,12 +62,17 @@ The dataset contained retail transactions including:
 - Presented findings through clear visuals and summary tables.
 ## Examples
 <img width="900" height="396" alt="Screenshot of chart displaying the SWITCH formula" src="https://github.com/user-attachments/assets/a4275317-2a27-47ec-a4ca-f200c2325966" />
-<break>
+<br>
+<p><br>
+<br></p>
 <img width="900" height="147" alt="Screenshot of a chart displaying sales organised by age group" src="https://github.com/user-attachments/assets/6cc08e1b-c4ba-48cc-9bf4-435471883f1a" />
-<break>
-<break>
+<br>
+<p><br>
+<br></p>
 <img width="900" height="266" alt="Screenshot of a chart displaying sales organised by age group" src="https://github.com/user-attachments/assets/495c5edb-7bbf-4c1f-8172-aa639067f5de" />
-<break>
+<br>
+<p><br>
+<br></p>
 <img width="838" height="421" alt="Screenshot of a product by revenue chart" src="https://github.com/user-attachments/assets/4df86a7a-c331-45ce-b6be-a8a5712575c6" />
 
 
