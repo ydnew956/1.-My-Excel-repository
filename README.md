@@ -55,18 +55,24 @@ The dataset contained retail transactions including:
   <br>
 ## Examples
 <br>
+In this Pivot table, Germany has customers in the Adults (35-64) category and From the Pivot table below, two countries, Australia and United Kingdom both have Sales in all markets.
+<br>
+<br>
 <img width="900" height="147" alt="Screenshot of a chart displaying sales organised by age group" src="https://github.com/user-attachments/assets/6cc08e1b-c4ba-48cc-9bf4-435471883f1a" />
 <br>
-<p><br>
-<br></p>
+<br>
+In this pivot table grouped by age and gender, it is the United States which is the most profitable.
+<br>
+<br>
 <img width="900" height="266" alt="Screenshot of a chart displaying sales organised by age group" src="https://github.com/user-attachments/assets/495c5edb-7bbf-4c1f-8172-aa639067f5de" />
 <br>
-<p><br>
-<br></p>
+<br>
 <img width="838" height="421" alt="Screenshot of a product by revenue chart" src="https://github.com/user-attachments/assets/4df86a7a-c331-45ce-b6be-a8a5712575c6" />
 <br>
-<p><br>
-<br></p>
+<br>
+A new column in the dataset categorising products by sales volume using the SWITCH function.
+<br> 
+<br>
 <img width="749" height="427" alt="Screenshot of chart displaying the SWITCH formula" src="https://github.com/user-attachments/assets/eb7768e5-1547-4408-9d81-16daf48e3848" />
 <br>
 
