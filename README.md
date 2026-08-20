@@ -67,6 +67,9 @@ In this pivot table grouped by age and gender, it is the United States which is 
 <img width="900" height="266" alt="Screenshot of a chart displaying sales organised by age group" src="https://github.com/user-attachments/assets/495c5edb-7bbf-4c1f-8172-aa639067f5de" />
 <br>
 <br>
+Screenshot of a product by revenue chart created using the Bike Sales dataset
+<br>
+<br>
 <img width="838" height="421" alt="Screenshot of a product by revenue chart" src="https://github.com/user-attachments/assets/4df86a7a-c331-45ce-b6be-a8a5712575c6" />
 <br>
 <br>
