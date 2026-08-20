@@ -67,16 +67,24 @@ In this pivot table grouped by age and gender, it is the United States which is 
 <img width="900" height="266" alt="Screenshot of a chart displaying sales organised by age group" src="https://github.com/user-attachments/assets/495c5edb-7bbf-4c1f-8172-aa639067f5de" />
 <br>
 <br>
-Screenshot of a product by revenue chart created using the Bike Sales dataset
+Screenshot of a product by revenue bar chart created using the Bike Sales dataset
 <br>
 <br>
-<img width="838" height="421" alt="Screenshot of a product by revenue chart" src="https://github.com/user-attachments/assets/4df86a7a-c331-45ce-b6be-a8a5712575c6" />
+<img width="838" height="421" alt="Screenshot of a product by revenue bar chart" src="https://github.com/user-attachments/assets/4df86a7a-c331-45ce-b6be-a8a5712575c6" />
+<br>
+<br>
+Pie chart of revenue comparison by age group
+<br>
+<br>
+<p align="center">
+<img width="542" height="321" alt="pie chart of revenue comparison by age group " src="https://github.com/user-attachments/assets/fa0e132e-1838-44cf-8756-209070379113" />
 <br>
 <br>
 A new column in the dataset categorising products by sales volume using the SWITCH function.
 <br> 
 <br>
-<img width="749" height="427" alt="Screenshot of chart displaying the SWITCH formula" src="https://github.com/user-attachments/assets/eb7768e5-1547-4408-9d81-16daf48e3848" />
+<p align="left">
+<img width="749" height="427" alt="Screenshot of pie chart displaying the SWITCH formula" src="https://github.com/user-attachments/assets/eb7768e5-1547-4408-9d81-16daf48e3848" />
 <br>
 
 
