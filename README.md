@@ -4,10 +4,7 @@
 
 This project was completed as part of the Data Technician Bootcamp week 1, focusing on analysing retail and sales data using Microsoft Excel. The goal was to apply core data analysis techniques to uncover insights, automate calculations, and present findings visually.
 
-
-
 ##  <b>Skills Demonstrated</b>
-
 
 ##  <b>Formula Mastery</b>
 
@@ -23,15 +20,12 @@ This project was completed as part of the Data Technician Bootcamp week 1, focus
 
 - **SWITCH** – Simplified complex conditional logic for cleaner data transformations.
 
-
-
 ##  Data Cleaning & Exploration
 
 - It is important to check your data is cleaned up and doesn’t interfere with
 calculations, numbers as text instead of numeric values, especially the spacing in cells.
 
 - Removed duplicates and handle missing data for accurate reporting.
-
 
 ##  <b>Data Visualisation</b>
 
@@ -40,7 +34,6 @@ calculations, numbers as text instead of numeric values, especially the spacing 
 - Created dynamic charts (bar, line, and pie) to visualise revenue trends and category performance.
 
 - Designed interactive dashboards for quick decision-making.
-
 
 ##  <b>Dataset Description</b>
 
@@ -52,7 +45,6 @@ The dataset contained retail transactions including:
 
 - Dates of transactions for monthly and yearly trend analysis
 
-
 ##  <b>Key Insights</b>
 
 - Identified seasonal sales patterns and top-performing categories.
@@ -60,11 +52,9 @@ The dataset contained retail transactions including:
 - Calculated commissions and profit margins using Excel formulas.
 
 - Presented findings through clear visuals and summary tables.
+  <br>
 ## Examples
-<img width="900" height="396" alt="Screenshot of chart displaying the SWITCH formula" src="https://github.com/user-attachments/assets/a4275317-2a27-47ec-a4ca-f200c2325966" />
 <br>
-<p><br>
-<br></p>
 <img width="900" height="147" alt="Screenshot of a chart displaying sales organised by age group" src="https://github.com/user-attachments/assets/6cc08e1b-c4ba-48cc-9bf4-435471883f1a" />
 <br>
 <p><br>
@@ -74,7 +64,11 @@ The dataset contained retail transactions including:
 <p><br>
 <br></p>
 <img width="838" height="421" alt="Screenshot of a product by revenue chart" src="https://github.com/user-attachments/assets/4df86a7a-c331-45ce-b6be-a8a5712575c6" />
-
+<br>
+<p><br>
+<br></p>
+<img width="749" height="427" alt="Screenshot of chart displaying the SWITCH formula" src="https://github.com/user-attachments/assets/eb7768e5-1547-4408-9d81-16daf48e3848" />
+<br>
 
 
 
