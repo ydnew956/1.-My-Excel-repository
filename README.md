@@ -1,8 +1,9 @@
 # Excel Retail & Sales Data Analysis Project
 
 ##  <b>Project Overview</b>
+Hi, I’m Wendy White — a Junior Data Analyst.
+This repository showcases my Excel data‑analysis work, including cleaning, formulas, PivotTables, dashboards, and business insights.
 
-This project was completed as part of the Data Technician Bootcamp week 1, focusing on analysing retail and sales data using Microsoft Excel. The goal was to apply core data analysis techniques to uncover insights, automate calculations, and present findings visually.
 
 ##  <b>Skills Demonstrated</b>
 
@@ -87,9 +88,15 @@ A new column in the dataset categorising products by sales volume using the SWIT
 <img width="749" height="427" alt="Screenshot of pie chart displaying the SWITCH formula" src="https://github.com/user-attachments/assets/eb7768e5-1547-4408-9d81-16daf48e3848" />
 <br>
 
+📁 Featured Files
 
+- Retail Sales Master — Full dataset used for analysis
 
+- Bike Sales Pivot — PivotTables + visualisations
 
+- HR Dataset — Age, gender, profitability insights
+
+- Atlantic Hurricanes — Additional analysis workbook
 
 ##  <b>Tools Used</b>
 
